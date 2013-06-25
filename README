@@ -1,9 +1,4 @@
-storm
-=====
-
-game engine
-
-`:storm game engine
+storm game engine
 	ssys	- platform independence layer
 			- platform detection
 			- atomic data types

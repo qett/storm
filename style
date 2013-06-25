@@ -1,0 +1,26 @@
+80 columns max, _NEVER_ more. Try to keep functions under 30 lines.
+
+8 space tabs
+
+class names start with
+
+common variable names:
+
+i,j,k	- indices 
+x,y,z	- unknowns  (math)
+a,b,c	- constants (math)
+
+fn 	- file name
+f	- file object
+
+src	- source
+dst	- destination
+
+K&R style names (lower case, underscore delimited)
+
+macros - trailing underscore (macro_name_)
+
+costants - upper case (CONSTANT_X)
+
+- try to keep identifiers under 20 characters
+
